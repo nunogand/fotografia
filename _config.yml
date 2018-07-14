@@ -11,9 +11,9 @@ header:
  title: "Fotografia"
  subtitle: "por Nuno Gandra"
 footer:
- name: "Nuno"
- bio: "Fotos portanto"
- github: "Quer um site similar de graça? Basta criar um fork no github"
+ name: "Nuno Gandra"
+ bio: "Como facilmente se vê, não sou fotógrafo!"
+ #github: "Quer um site similar de graça? Basta criar um fork no github"
 web_design: "Nuno"
 social_urls:
  facebook: "https://www.facebook.com"
