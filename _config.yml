@@ -1,0 +1,26 @@
+# Base configs
+baseurl: "https://nunogand.com/fotografia"
+url: "https://nunogand.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-109060453-1"
+
+# UI configs
+title: "Fotografia por Nuno Gandra"
+subtitle: "Como eu vejo o mundo!"
+author: "Nuno Gandra"
+header:
+ title: "Fotografia"
+ subtitle: "por Nuno Gandra"
+footer:
+ name: "Nuno"
+ bio: "Fotos portanto"
+ github: "Quer um site similar de graça? Basta <a href="https://github.com/nunogand/fotografia">criar um fork no github</a>"
+web_design: "Nuno"
+social_urls:
+  facebook: "https://www.facebook.com"
+  twitter: "https://www.twitter.com/nunogand"
+  instagram: "https://www.instagram.com/nunogand"
+  dribbble: "https://dribbble.com/"
+  linkedin: "https://in.linkedin.com/in/"
+  github: "https://www.github.com/nunogand"
