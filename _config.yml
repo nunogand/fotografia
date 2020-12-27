@@ -1,8 +1,8 @@
 # Base configs
-baseurl: "https://nunogand.com/fotografia"
+baseurl: ""
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-109060453-1"
+#google_analytics: "UA-109060453-1"
 # UI configs
 title: "Fotografia por Nuno Gandra"
 subtitle: "Como eu vejo o mundo!"
@@ -12,13 +12,16 @@ header:
  subtitle: "Nuno Gandra"
 footer:
  name: "Nuno Gandra"
- bio: "Como facilmente se vê, não sou fotógrafo!"
- #github: "Quer um site similar de graça? Basta criar um fork no github"
-web_design: "Nuno"
+ bio: "Como se vê, não sou fotógrafo!"
+web_design: "nunogand"
 social_urls:
- facebook: "https://www.facebook.com"
+# facebook: "https://www.facebook.com"
  twitter: "https://www.twitter.com/nunogand"
- instagram: "https://www.instagram.com/nunogand"
- dribbble: "https://dribbble.com/"
- linkedin: "https://in.linkedin.com/in/"
+# instagram: "https://www.instagram.com/nunogand"
+# dribbble: "https://dribbble.com/"
+ linkedin: "https://www.linkedin.com/in/nunogand/"
  github: "https://www.github.com/nunogand"
+
+ plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
