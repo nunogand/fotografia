@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'bundler', '2.2.17'
+gem "bundler", ">= 2.2.18"
 gem 'jekyll', '4.2.0'
 
 group :jekyll_plugins do
