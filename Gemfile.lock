@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
@@ -66,7 +66,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (= 2.2.17)
+  bundler (>= 2.2.18)
   jekyll (= 4.2.0)
   jekyll-seo-tag (= 2.6.1)
   jekyll-sitemap (= 1.4.0)
